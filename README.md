@@ -1,1 +1,3 @@
-# simple-storage
+# Solidity Learning Process
+
+First Solidity Code
